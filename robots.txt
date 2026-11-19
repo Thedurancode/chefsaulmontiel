@@ -1,0 +1,34 @@
+# Search engines and AI assistants are welcome to read the whole site.
+User-agent: *
+Allow: /
+Disallow: /assets/_
+
+# Google Search and Gemini
+User-agent: Googlebot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+# Bing (also powers ChatGPT search and Copilot)
+User-agent: Bingbot
+Allow: /
+
+# OpenAI: ChatGPT search, ChatGPT browsing, model training
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: GPTBot
+Allow: /
+
+# Anthropic Claude, Perplexity, Apple
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Applebot
+Allow: /
+
+Sitemap: https://thedurancode.github.io/chefsaulmontiel/sitemap.xml

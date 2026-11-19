@@ -1,0 +1,25 @@
+# Azul Catering by Chef Saúl Montiel
+
+> Azul Catering is the catering company of Chef Saúl Montiel, chef and owner of La Única Tacos & Tequila in Elizabeth, New Jersey. Azul caters weddings, quinceañeras, birthdays, office and corporate events, and brand launches across New Jersey and New York, cooking on site with Mexican flavor and European technique.
+
+Saúl Montiel grew up cooking in his family's fonda in Hidalgo, Mexico, built his career in New York kitchens (starting in Italian restaurants), and has appeared on TODAY, Good Morning America, Chopped, Food Network, Netflix, Telemundo, Univision, Fox 5 New York, Epicurious, Forbes, Insider and Condé Nast Traveler. Azul has catered for the TODAY show, the NBA and the City of Elizabeth, New Jersey. The site is in English and Spanish.
+
+## Catering
+
+- [Azul Catering](https://thedurancode.github.io/chefsaulmontiel/azul.html): cuisines, gallery, event types, how booking works, and an online menu builder that sends the request to Saúl.
+- Cuisines: Mexican (mole, birria, live taco bars), Italian (pasta and classics), brunch, plant-based, off the grill (rib eye, charred vegetables), canapés, and desserts (tres leches, flan, churros).
+- Events: weddings, quinceañeras and birthdays, offices and companies, brands and media (live-cooking events).
+- How it works: tell Azul the date, place and guest count (or build a menu online); Saúl sends a menu and adjusts it with you; the team arrives, cooks on site and serves.
+- Service area: New Jersey and New York.
+- Contact: info@chefsaulmontiel.com
+
+## Book Chef Saúl
+
+- Services, all priced by custom quote, across New Jersey and New York: catering through Azul (passed hors d'oeuvres, buffet or food trays), a taco trailer serving handmade street tacos, a craft margarita bar (with or without catering), private chef dinners in your home or venue, restaurant consulting (concepts and openings, menus, kitchen operations, staff training, food cost), TV appearances and brand collaborations in English or Spanish, and festival demos and masterclasses.
+- Book through the "Book Saúl" form on his page, call (917) 375-2685, or email info@chefsaulmontiel.com.
+
+## About the chef
+
+- [Chef Saúl Montiel](https://thedurancode.github.io/chefsaulmontiel/): his story from Hidalgo to La Única.
+- [La Única Tacos & Tequila](https://launicataqueria.us): his restaurant in Elizabeth, NJ.
+- [Instagram @chefsaulmontiel](https://www.instagram.com/chefsaulmontiel)
